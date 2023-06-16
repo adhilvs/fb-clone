@@ -1,0 +1,39 @@
+button{
+    background: blue;
+    color: #fff;
+}
+
+#para1{
+    
+    color:red;
+}
+#para2{
+    color: blueviolet;
+}
+.adhil{
+    color: #fff;
+    background: black;
+
+}
+
+.outerbox{
+    width: 300px;
+    height: 200px;
+    background: rebeccapurple;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border: 5px solid;
+    border-color: red;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 200px;
+}
+.inner-div{
+    margin: 10px;
+    background: black;
+    width: 200px;
+    height: 100px;
+}
